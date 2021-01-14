@@ -20,11 +20,31 @@
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ page.description }}</p>
+               
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Get Started</a></li>
                 </ul>
+                
             </div>
+            {% if page.observation %}
+          
+            {{page.observation}}
+                  <br>
+            {%endif%}
+            {% if  page.sponsors%}
+            Apoiado por:
+            {% for sponsor in page.sponsors %}
+
+            <div class="card" style="width: 18rem;">
+                <a href="{{sponsor.url}}" target="_blank"> <img class="card-img-top" src="{{sponsor.logo}}" alt="{{sponsor.name}}"></a>
+                
+                
+              
+              </div>
+            {%endfor%}
+            {%endif%}
         </div>
+    
     </section>
 
     <!-- Main -->

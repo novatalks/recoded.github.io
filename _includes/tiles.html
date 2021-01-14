@@ -11,9 +11,12 @@
     </span>
     <header class="major">
       {{tile.tag}}
-      <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.description }}</a></h3> 
-      <p>{{ tile.title }}</p>
-   
+      <h2><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.description }}</a> 
+      
+      </h2> 
+      <p style="font-size:1.05em;">{{ tile.title }}</p>
+      {{tite.speaker}} <br>
+       {{tile.day}} {{tile.hour}}
     </header>
   </article>
   {% endfor %}
