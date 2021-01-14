@@ -1,0 +1,36 @@
+# site settings
+title: Recoded
+subtitle: by NOVATalks
+email: youremailaddress@gmail.com
+description: A series of talks and workshops by NOVATalks.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 
+city: 
+state: 
+zip_code: 
+country: 
+phone: 
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+500px_url:
+facebook_url: 
+github_url:
+gitlab_url:
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/company/novatalks/about/
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
