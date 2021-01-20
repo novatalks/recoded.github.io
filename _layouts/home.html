@@ -28,11 +28,14 @@
             </div>
             {% if page.observation %}
           
-            {{page.observation}}
+            By <img src="/assets/images/zoom.png" style="width:3em;height:auto;"/> 
+            <br>
+            9 and 11 of February.
                   <br>
             {%endif%}
             {% if  page.sponsors%}
             Apoiado por:
+            <div style="display:flex;">
             {% for sponsor in page.sponsors %}
 
             <div class="card" style="width: 18rem;">
@@ -42,6 +45,7 @@
               
               </div>
             {%endfor%}
+        </div>
             {%endif%}
         </div>
     
