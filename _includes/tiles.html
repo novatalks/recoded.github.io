@@ -3,7 +3,10 @@
 {% elsif 'pages' == site.tiles-source %}
     {% assign tiles = site.html_pages | where_exp: "item", "item.show_tile != false" %}
 {% endif %}
+{% assign psize = tiles | size %}
+
 <section id="one" class="tiles">
+ 
   {% for tile in tiles limit:site.tiles-count %}
   <article>
     <span class="image">
@@ -19,5 +22,26 @@
        {{tile.day}} {{tile.hour}}
     </header>
   </article>
+
+
   {% endfor %}
+
+ 
+{% for tile in (psize..5) %}
+<article>
+  <span class="image">
+    <img src="{{ tile.image }}" alt="" />
+  </span>
+  <header class="major">
+    
+    <h2><a href="#" class="link">Stay Tuned</a> 
+    
+    </h2> 
+    <p style="font-size:1.05em;">Coming Soon...</p>
+   
+  </header>
+</article>
+
+{% endfor %}
+
 </section>
