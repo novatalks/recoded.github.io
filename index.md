@@ -13,7 +13,7 @@ show_tile: false
 
 sponsors:
     - name: Vision-Box
-      logo: /assets/images/VB_logo_white.png
+      logo: assets/images/VB_logo_white.png
       url: https://www.vision-box.com/
  
 ---
