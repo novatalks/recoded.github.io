@@ -17,4 +17,4 @@ Jean-François (Jeff) Lennon é VP - Head of Strategic Sales & Global Partnershi
 A carreira do Jeff ampliou as suas percepções de mercado e expandiu a sua experiência internacional, conhecendo diferentes mercados por todo o mundo. Metade francês, metade britânico, nascido na Alemanha e casado com uma portuguesa, tem dois filhos e vive em Lisboa, Portugal … e entre alguns voos pelo mundo!
 
 Metade Francês, Metade Britânico, nascido na Alemanha e casado com uma Portuguesa, tem dois filhos e vive em Lisboa, Portugal … e entre alguns voos pelo mundo!
-Vem assistir a esta talk com o tema “The Future of Travelling” dia 11 às 11:30h na plataforma Zoom (link a anunciar), e vem pensar um pouco sobre as viagens do amanhã!
+Vem assistir a esta talk com o tema “The Future of Travelling” dia 11 às 11:30h na plataforma Zoom, e vem pensar um pouco sobre as viagens do amanhã!

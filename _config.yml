@@ -10,7 +10,7 @@ street_address:
 city: 
 state: 
 zip_code: 
-country: 
+country: Portugal
 phone: 
 
 # homepage tiles
@@ -20,7 +20,7 @@ tiles-count: 8
 # social settings
 500px_url:
 facebook_url: https://www.facebook.com/novatalks.fct
-github_url:
+github_url: https://github.com/novatalks/recoded.github.io
 gitlab_url:
 googleplus_url: 
 instagram_url: https://www.instagram.com/novatalks.fct/
@@ -28,7 +28,7 @@ linkedin_url: https://www.linkedin.com/company/novatalks/about/
 pinterest_url:
 slack_url:
 twitter_url: 
-
+webpage_url: https://novatalks.github.io/
 # build settings
 markdown: kramdown
 

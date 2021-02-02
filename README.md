@@ -1,5 +1,11 @@
 # Recoded by NOVATalks
 
+
+## Landing Page for Recoded by NOVATalks
+
+Recoded is a series of events organized by NOVATalks. NOVATalks is a branch of the student association of FCT-UNL Portugal.
+
+
 # Credits
 
 Original README from HTML5 UP:
