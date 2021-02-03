@@ -4,11 +4,12 @@ title: Vision Box
 description: Flutter
 image: assets/images/flutter.png
 header: assets/images/WorkshopVisionBox.png
-
 tag: Workshop
 day: "09/02"
 hour: "10:00"
 speaker: João Soares, Head of Software Engineering
+nav-menu: true
+
 ---
 
 O mundo está a mudar drasticamente. As empresas estão a reinventar-se. E tu? Estás a conseguir acompanhar a mudança?

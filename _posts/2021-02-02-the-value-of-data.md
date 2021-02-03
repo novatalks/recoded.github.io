@@ -8,6 +8,8 @@ tag: Talk
 speaker: João Azambuja, Senior Data Scientist
 day: "11/02"
 hour: "9:30"
+nav-menu: true
+
 ---
 
 No dia 11 de fevereiro às 9h30 contamos com o João Azambuja, Senior Data Scientist na [Closer](www.closer.pt), para a primeira talk do dia. Vem ouvir sobre o que esperar dos dados no futuro, e que valor eles nos podem trazer. Vamos estar à tua espera!
