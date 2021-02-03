@@ -18,11 +18,30 @@
 
 <!-- One -->
 <section id="one">
+	
 	<div class="inner">
-		<header class="major">
-			<h1>{{ page.description }}</h1>
-			<h2>{{ page.title }}</h2>
-		</header>
+
+		<div class="row">
+			<div class="col-sm-4 col-md-4 col-lg-4">
+			
+					
+				
+			<img src="{{page.header | relative_url}}"  style="width:15em;height:auto;box-shadow:4px 4px 2px 2px black;">
+			
+				
+			</div>
+			<div class="col-sm-2 col-md-2">
+
+			</div>
+			<div class="col-sm-6 col-md-6">
+				<header class="major">
+			
+					<h1>{%if page.tag =="Workshop" %} Workshop {%endif%} {{ page.description }}</h1>
+					<h2>{{ page.title }}</h2>
+				</header>
+			</div>
+
+		</div>
 		{{ content }}
 	</div>
 </section>
