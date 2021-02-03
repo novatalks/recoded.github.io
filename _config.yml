@@ -32,6 +32,7 @@ webpage_url: https://novatalks.github.io/
 # build settings
 markdown: kramdown
 
+preview: assets/image/banner.jpg
 sass:
   style: compressed
 
