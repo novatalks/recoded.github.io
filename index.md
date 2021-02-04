@@ -20,11 +20,11 @@ support:
     - name: AEFCT
       logo: assets/images/aefctlogo.png
       url:  https://ae.fct.unl.pt/
-      size: 20
+      size: 14
     - name: NOVA IMS SU
       logo: assets/images/novaimssu.png
       url: http://www.novaimssu.pt/
-      size: 6
+      size: 5
 
 facebook:  https://www.facebook.com/events/343994913295825
 linkedin:  https://www.linkedin.com/events/6760585006315257856/
