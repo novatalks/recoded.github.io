@@ -4,6 +4,7 @@ title: Vision Box
 description: Flutter
 image: assets/images/flutter.png
 header: assets/images/WorkshopVisionBox.png
+webpage_url: https://www.vision-box.com/
 tag: Workshop
 day: "09/02"
 hour: "10:00"

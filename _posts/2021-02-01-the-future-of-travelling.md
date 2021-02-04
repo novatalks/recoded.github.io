@@ -4,6 +4,7 @@ title: Vision-Box
 description: The Future of Travelling
 image: assets/images/vision-box.jpeg
 header: assets/images/TalkVisionBox.png
+webpage_url: https://www.vision-box.com/
 tag: Talk
 day: "11/02"
 hour: "11:30"

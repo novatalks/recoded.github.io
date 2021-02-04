@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Moxie
+title: Moxie - OutSystems Driven with Expertise
 description: Outsystems
 image: assets/images/outsystems.png
 header: assets/images/WorkshopMoxie.png
+webpage_url: www.moxie.pt
 tag: Workshop
 speaker: Filipe Cardoso, Senior OutSystems Consultant
 day: "09/02"
@@ -19,7 +20,7 @@ Dia 9 de Fevereiro, pelas 14h, junta-te a nós, e vem construir uma aplicação 
 
 Basta seguires estes passos:
 
-1. Ter computador com Outsystems Service Studio instalado; Download aqui!
+1. Ter computador com Outsystems Service Studio instalado; [Download aqui](https://www.outsystems.com/downloads/)!
 2. Ter criado uma conta Outsystems no website e ter um ambiente pessoal pronto a ser utilizado.
 3. Apareceres!
 

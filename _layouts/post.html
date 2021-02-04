@@ -27,11 +27,16 @@
 			
 					
 					<h1>{%if page.tag =="Workshop" %} Workshop {%endif%} {{ page.description }} - {{page.day}} {{page.hour}} </h1>
-	
-
-					<h2>{{ page.title }}</h2>
-					    
 					
+						{%if page.url %}
+					
+						<h2><a href="{{ page.webpage_url }}" target="_blank">{{ page.title }}</a></h2>
+						{%else%}
+						<h2>{{ page.title }}</h2>
+
+						{%endif%}
+					
+
 				</header>
 			
 

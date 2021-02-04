@@ -4,6 +4,7 @@ title: Closer
 description: The Value of Data
 image: assets/images/data.jpg
 header: assets/images/TalkCloser.png
+webpage_url: www.closer.pt
 tag: Talk
 speaker: João Azambuja, Senior Data Scientist
 day: "11/02"
