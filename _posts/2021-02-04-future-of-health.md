@@ -21,6 +21,6 @@ A [Ana Rita Londral](https://www.linkedin.com/in/analondral/), investigadora ao 
 Os CoLAB (Laboratórios Colaborativos) são associações sem fins lucrativos ou empresas que têm como objetivo principal criar emprego científico em Portugal, ligando a indústria à investigação académica de forma a facilitar a partilha de conhecimento.
 Em particular, o VOH.CoLAB tem o objectivo de promover, investigar e desenvolver o valor em saúde, tanto a nível económico, bem como social e tecnológico.
 
-Para os mais curiosos, e para aqueles que, de certeza, se vão juntar a nós nesta talk, partilhamos este link onde podem ficar a conhecer um pouco o VOH.CoLAB e o que é valor em saúde, bem como alguns dos seus projetos.
+Para os mais curiosos, e para aqueles que, de certeza, se vão juntar a nós nesta talk, partilhamos este [link](https://www.youtube.com/watch?v=lBgMujxEZ4o&t=3s&ab_channel=ValueforHealthCoLAB) onde podem ficar a conhecer um pouco o VOH.CoLAB e o que é valor em saúde, bem como alguns dos seus projetos.
 
 Dia 11 pelas 14h, no mesmo link zoom, contamos contigo?
