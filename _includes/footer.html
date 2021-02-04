@@ -2,6 +2,7 @@
 <!-- Footer -->
 	<footer id="footer">
 		<div class="inner">
+			<div style="display:flex">
 			<ul class="icons">
 				{% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
@@ -37,6 +38,30 @@
 				<li><a href="{{ site.webpage_url }}" class="icon alt fa-globe" target="_blank"><span class="label">Webpage</span></a></li>
 				{% endif %}
 			</ul>
+			{% if page.support %}
+			<div style="margin-left:auto;">
+			Supported by:
+			<div style="display:flex;">
+				
+				{% for support in page.support %}
+
+				<div class="card" style="width:{{support.size}}rem;margin:0.5em;">
+
+					<a href="{{support.url}}" target="_blank" class="alt icon"> <img src="{{support.logo}}"
+							alt="{{support.name}}"></a>
+
+
+				</div>
+				{%endfor%}
+
+
+			</div>
+		
+		
+			{%endif%}
+		
+		</div>
+		</div>
 			<ul class="copyright">
 				<li>&copy; {{ site.title }} {{ site.subtitle }}</li>
 				<li>Design: <a href="https://html5up.net" target="_blank">HTML5 UP</a></li>

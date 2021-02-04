@@ -20,53 +20,64 @@
             </header>
             <div class="content">
                 <p style="text-transform: uppercase;">{{ page.description }}</p>
-               
+
                 <ul class="actions">
                     <li><a href="#one" class="button next scrolly">Events</a></li>
-                    <li>                    <a href="{{page.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a>
+                    <li> <a href="{{page.facebook}}" target="_blank"><i class="fa fa-facebook"></i></a>
                     </li>
-                    <li>                    <a href="{{page.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a>
+                    <li> <a href="{{page.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a>
                     </li>
                 </ul>
-                
+
             </div>
+
             {% if page.observation %}
-           
-           <a href="https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09" target="_blank" >
-            <img src="assets/images/zoom.png"  style="width:3em;height:auto;"/> 
-           </a>
-            <br>
-            Workshops and Talks.
-            <br>
-            9 and 11 of February. 
-                  <br>
-            {%endif%}
-            {% if  page.sponsors%}
-            <span style="font-size:1.1em;">With the support of:</span>
-            <div style="display:flex;">
-            {% for sponsor in page.sponsors %}
+            <div style="display:flex;margin-bottom:3em;">
+                <div>
+                    <a href="{{page.zoom}}" target="_blank">
+                        <img src="assets/images/zoom.png" style="width:3em;height:auto;" />
+                    </a>
+                    <br>
+                    Workshops and Talks.
+                    <br>
+                    9 and 11 of February.
+                    <br>
+                    {%endif%}
+                    {% if page.sponsors%}
+                    <span style="font-size:1.1em;">Sponsored by:</span>
+                    <div style="display:flex;">
+                        {% for sponsor in page.sponsors %}
 
-            <div class="card" style="width: 18rem;">
-                <a href="{{sponsor.url}}" target="_blank"> <img class="card-img-top" src="{{sponsor.logo}}" alt="{{sponsor.name}}"></a>
-                
-              
-              </div>
-            {%endfor%}
-        </div>
-            {%endif%}
-        </div>
-       
+                        <div class="card" style="width:18rem;">
+                            <a href="{{sponsor.url}}" target="_blank" class="icon alt"> <img class="card-img-top" src="{{sponsor.logo}}"
+                                    alt="{{sponsor.name}}"></a>
+
+
+                        </div>
+                        {%endfor%}
+
+
+                    </div>
+                </div>
+                    <a href="#main" style="margin-left:auto;" class="icon alt scrolly"><img src="{{page.image}}" id="homeimage" 
+                        style="width:25em;height:auto;box-shadow:5px 5px 5px 5px black;">
+                    </a>
+                    </div>
+
+                {%endif%}
+            </div>
+
     </section>
-
+    
     <!-- Main -->
     <div id="main">
 
-      
-       {% include tiles.html %}
 
-        
+        {% include tiles.html %}
 
-    {% include footer.html %}
+
+
+        {% include footer.html %}
 
 </body>
 
