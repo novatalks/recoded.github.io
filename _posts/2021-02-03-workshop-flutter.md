@@ -22,4 +22,4 @@ Grande parte da sua carreira foi passada em Gibraltar, a trabalhar em empresas d
  
 Não percas este workshop, dia 9 de fevereiro às 10h, pela plataforma zoom. 
  
-Basta seguires [estes passos](https://flutter.dev/docs/get-started/install= para instalar e configurar o teu ambiente de desenvolvimento e aparecer!
+Basta seguires [estes passos](https://flutter.dev/docs/get-started/install) para instalar e configurar o teu ambiente de desenvolvimento e aparecer!
