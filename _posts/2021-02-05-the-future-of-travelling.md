@@ -10,6 +10,7 @@ day: "11/02"
 hour: "11:30"
 speaker: Jean-François, VP - Head of Strategic Sales & Global Partnerships
 nav-menu: true
+zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
 ---
 
 A pandemia quase parou o transporte aéreo e mudou drasticamente como os aeroportos operam. O contacto teve de ser reduzido, as filas tiveram de ser encurtadas e a tecnologia necessária para o seu bom funcionamento foi reinventada. Para nos falar um pouco disto e muito mais contamos com a ajuda do Jeff, VP - Head of Strategic Sales & Global Partnerships da Vision-Box:

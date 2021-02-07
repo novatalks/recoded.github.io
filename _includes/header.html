@@ -5,9 +5,11 @@
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="{{ "" | absolute_url }}/" class="logo"><strong>{{ site.title }}</strong> <span>{{ site.subtitle }}</span></a>
 	<nav>
-		<a href="#menu">Menu</a>
+		<a href="#menu">Calendar</a>
 	</nav>
 </header>
+
+{% assign tiles = site.posts | sort:'date' %}
 
 <!-- Menu -->
 <nav id="menu">
@@ -17,9 +19,12 @@
 		        <li><a href="{{ "" | absolute_url }}/">{{ page.title }}</a></li>
 	    	{% endif %}
 		{% endfor %}
-		{% for page in site.posts %}
+		{% for page in tiles %}
 		    {% if page.layout != "home" and page.nav-menu == true %}
-		        <li><a href="{{ page.url | absolute_url }}">{%if page.tag =='Workshop'%} Workshop {%endif%} {{ page.description }}</a></li>
+		        <li>
+					<a href="{{ page.url | absolute_url }}">{%if page.tag =='Workshop'%} Workshop {%endif%} {{ page.description }} </a>
+				   {{page.day}} {{page.hour}}
+				</li>
 		    {% endif %}
 		{% endfor %}
 	</ul>

@@ -26,7 +26,9 @@
 				<header class="major">
 			
 					
-					<h1>{%if page.tag =="Workshop" %} Workshop {%endif%} {{ page.description }} - {{page.day}} {{page.hour}} </h1>
+					<h1>{%if page.tag =="Workshop" %} Workshop {%endif%} {{ page.description }}   &ensp;&ensp;  <span style="font-size:0.5em"> {{page.day}} {{page.hour}} on <a href="{{page.zoom}}" target="_blank">
+					 <img src="/assets/images/zoom.png" style="width:2.0em;height:auto;position:relative;margin-bottom:-0.5em;" />
+                    </a> </span> </h1>
 					
 						{%if page.url %}
 					

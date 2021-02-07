@@ -9,6 +9,8 @@ hour: "16:00"
 speaker: Senior Quality Advocate
 nav-menu: true
 webpage_url: https://www.diogonunes.com/
+zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
+
 ---
 
 
@@ -20,4 +22,3 @@ Dessa forma, é cada vez mais importante empregar boas práticas de testing de m
  
 O [Diogo Nunes](https://www.diogonunes.com/) é um Software Tester português que trabalha atualmente na Springer Nature. Profissionalmente, a sua maior paixão é usar a tecnologia de forma a melhorar a vida das pessoas. Nos seus tempos livres, o Diogo é blogger, escritor, fotógrafo e mentor académico. Podes descobrir mais sobre o Diogo no seu site https://www.diogonunes.com/.  
  
-Aparece! Não te esqueças de acompanhar o site do evento onde encontras toda a informação que precisas de forma fácil e rápida! https://novatalks.github.io/recoded.github.io/ 

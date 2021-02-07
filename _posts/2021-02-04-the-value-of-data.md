@@ -10,6 +10,8 @@ speaker: João Azambuja, Senior Data Scientist
 day: "11/02"
 hour: "9:30"
 nav-menu: true
+zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
+
 
 ---
 

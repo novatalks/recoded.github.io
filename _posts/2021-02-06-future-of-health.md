@@ -9,6 +9,7 @@ day: "11/02"
 hour: "14:00"
 speaker: Ana Rita Londral, CEO
 nav-menu: true
+zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
 
 ---
 

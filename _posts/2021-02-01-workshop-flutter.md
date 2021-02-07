@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vision Box
+title: Vision-Box
 description: Flutter
 image: assets/images/flutter.png
 header: assets/images/WorkshopVisionBox.png
@@ -10,6 +10,8 @@ day: "09/02"
 hour: "10:00"
 speaker: João Soares, Head of Software Engineering
 nav-menu: true
+zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
+
 
 ---
 
