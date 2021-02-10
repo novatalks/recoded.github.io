@@ -24,7 +24,7 @@ Grande parte da sua carreira foi passada em Gibraltar, a trabalhar em empresas d
  
 O workshop decorreu dia 9 de Fevereiro às 10, pela plataforma zoom.
 
-Para dares setup ao flutter basta seguires [estes passos](https://flutter.dev/docs/get-started/install) para instalar e configurar o teu ambiente de desenvolvimento!
+Se perdeste o workshop e queres dar setup ao flutter basta seguires [estes passos](https://flutter.dev/docs/get-started/install) para instalar e configurar o teu ambiente de desenvolvimento!
 
 Para além do workshop o João disponibilizou-nos um conjunto de recursos que podes aproveitar!
 
