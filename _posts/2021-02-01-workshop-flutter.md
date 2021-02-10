@@ -22,6 +22,34 @@ No primeiro dia do Recoded temos um workshop dedicado a Flutter, uma das mais re
 [João Soares](https://pt.linkedin.com/in/joaofgsoares), com background em desenvolvimento de software para Frontend, com PHP, Ruby e Javascript, é atualmente Head of Software Engineering na [Vision-Box](https://www.vision-box.com/) e aceitou o desafio de se juntar à NOVATalks para partilhar connosco os seus conhecimentos e insights sobre ferramentas do futuro. 
 Grande parte da sua carreira foi passada em Gibraltar, a trabalhar em empresas de apostas. Atualmente, utiliza boa parte do seu tempo para programar, responder a perguntas no StackOverflow, e fazer vídeos sobre Dart e Flutter.
  
-Não percas este workshop, dia 9 de fevereiro às 10h, pela plataforma zoom. 
- 
-Basta seguires [estes passos](https://flutter.dev/docs/get-started/install) para instalar e configurar o teu ambiente de desenvolvimento e aparecer!
+O workshop decorreu dia 9 de Fevereiro às 10, pela plataforma zoom.
+
+Para dares setup ao flutter basta seguires [estes passos](https://flutter.dev/docs/get-started/install) para instalar e configurar o teu ambiente de desenvolvimento!
+
+Para além do workshop o João disponibilizou-nos um conjunto de recursos que podes aproveitar!
+
+GitHub
+Branch com o SharedPreferences para permanência de dados:
+
+https://github.com/Morthor/flutter_todo_app_talk/tree/shared_preferences
+
+Projecto base usado para o workshop
+
+https://github.com/Morthor/flutter_todo_app_talk/tree/basic
+
+Youtube
+
+Canal do João:
+https://www.youtube.com/channel/UCRXSmxZqyovfYKjZK9M1msw
+
+SharedPreferences:
+
+https://www.youtube.com/watch?v=oPrpk_JiGvc&t=3s
+
+
+Medium
+
+SharedPreferences:
+
+https://morthor.medium.com/flutter-data-persistence-with-sharedpreferences-e11d3f77ecf7
+
