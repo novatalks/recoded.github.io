@@ -26,24 +26,28 @@
 				<header class="major">
 			
 					
-					<h1>{%if page.tag =="Workshop" %} Workshop {%endif%} {{ page.description }}   &ensp;&ensp;  <span style="font-size:0.5em"> {{page.day}} {{page.hour}} on <a href="{{page.zoom}}" target="_blank">
-					 Zoom
-                    </a> </span> </h1>
+					<h1>{%if page.tag =="Workshop" %} Workshop {%endif%} {{ page.description }}   &ensp;&ensp;  <span style="font-size:0.5em"> {{page.day}} {{page.hour}} 
+				
+                    </span>  </h1>
 					
 						{%if page.url %}
-					
+
 						<h2><a href="{{ page.webpage_url }}" target="_blank">{{ page.title }}</a></h2>
 						{%else%}
 						<h2>{{ page.title }}</h2>
 
 						{%endif%}
 					
-
+					
 				</header>
 			
-
+			
 		</div>
+	
 		{{ content }}
+		{% if page.video %}
+		<iframe src="{page.video}}"></iframe>
+		{% endif %}
 	</div>
 </section>
 

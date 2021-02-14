@@ -10,7 +10,6 @@ speaker: João Azambuja, Senior Data Scientist
 day: "11/02"
 hour: "9:30"
 nav-menu: true
-zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
 
 
 ---
@@ -19,4 +18,6 @@ No dia 11 de fevereiro às 9h30 contamos com o [João Azambuja](https://pt.linke
 
 Para já damos-te a conhecer um pouco o nosso orador:
 
-O [João Azambuja](https://pt.linkedin.com/in/joaoazambuja) é Data Scientist com mais de 20 anos de experiência em gestão, consultoria e na área tecnológica. Atualmente integra a equipa da Closer, onde desenvolve projetos de advanced analytics, machine learning e artificial intelligence que se focam na criação de valor a partir de dados. É também docente convidado na NOVA IMS. Doutorado em Gestão e com um MBA em Finanças, trabalhou anteriormente na KPMG Advisory Portugal com a responsabilidade de coordenação técnica de projectos de AI e Advanced Analytics
+O [João Azambuja](https://pt.linkedin.com/in/joaoazambuja) é Data Scientist com mais de 20 anos de experiência em gestão, consultoria e na área tecnológica. Atualmente integra a equipa da Closer, onde desenvolve projetos de advanced analytics, machine learning e artificial intelligence que se focam na criação de valor a partir de dados. É também docente convidado na NOVA IMS. Doutorado em Gestão e com um MBA em Finanças, trabalhou anteriormente na KPMG Advisory Portugal com a responsabilidade de coordenação técnica de projectos de AI e Advanced Analytics.
+
+Nesta talk falamos de como criar valor a partir dos dados, da importância de perceber as necessidades de todos os stakeholders e muito mais! Se perdeste esta talk, não percas a próxima!

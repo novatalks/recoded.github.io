@@ -9,7 +9,6 @@ day: "11/02"
 hour: "14:00"
 speaker: Ana Rita Londral, CEO
 nav-menu: true
-zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
 
 ---
 
@@ -22,6 +21,7 @@ A [Ana Rita Londral](https://www.linkedin.com/in/analondral/), investigadora ao 
 Os CoLAB (Laboratórios Colaborativos) são associações sem fins lucrativos ou empresas que têm como objetivo principal criar emprego científico em Portugal, ligando a indústria à investigação académica de forma a facilitar a partilha de conhecimento.
 Em particular, o VOH.CoLAB tem o objectivo de promover, investigar e desenvolver o valor em saúde, tanto a nível económico, bem como social e tecnológico.
 
-Para os mais curiosos, e para aqueles que, de certeza, se vão juntar a nós nesta talk, partilhamos este [link](https://www.youtube.com/watch?v=lBgMujxEZ4o&t=3s&ab_channel=ValueforHealthCoLAB) onde podem ficar a conhecer um pouco o VOH.CoLAB e o que é valor em saúde, bem como alguns dos seus projetos.
+Para os mais curiosos, partilhamos este [link](https://www.youtube.com/watch?v=lBgMujxEZ4o&t=3s&ab_channel=ValueforHealthCoLAB) sobre um dos muitos projectos do VOH.CoLAB, para mais informações visitem o site do Value for Health CoLAB!
 
-Dia 11 pelas 14h, no mesmo link zoom, contamos contigo?
+Nesta talk, Ana Rita Londral explorou o passado da saúde, onde nos encontramos, o conceito de saúde baseada em valor, e que direção estamos a tomar. Uma talk extremamente interessante sobre o futuro da humanidade, onde varias perguntas foram exploradas durante esta hora de talk: estamos a caminhar para imortalidade ? A inovação da saúde pode criar desiguildades? O paradigma está e tem de mudar? Se perdeste a talk, e estás interessado, não te preocupes, está gravada e disponível!
+

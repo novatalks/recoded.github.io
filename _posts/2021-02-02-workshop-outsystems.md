@@ -10,7 +10,6 @@ speaker: Filipe Cardoso, Senior OutSystems Consultant
 day: "09/02"
 hour: "14:30"
 nav-menu: true
-zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
 
       
 ---

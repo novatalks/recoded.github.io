@@ -17,6 +17,8 @@
       <p style="font-size:1.05em;">{{ tile.title }}</p>
       {{tile.speaker}} <br>
        <b>{{tile.day}} {{tile.hour}}</b>
+       <br>  {%if tile.video %}<i class="fa fa-film" aria-hidden="true"></i> Talk disponível!
+       {%endif%} 
     </header>
   </article>
 

@@ -9,7 +9,6 @@ hour: "16:00"
 speaker: Senior Quality Advocate
 nav-menu: true
 webpage_url: https://www.diogonunes.com/
-zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
 
 ---
 
