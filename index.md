@@ -4,12 +4,8 @@ title: Home
 landing-title: 'Re-coded'
 version: 0
 description: Re-think how will the future be. Recode your mind. 
-observation: Online. 9 and 11 of February
+observation: Online. 9 and 11 of February 2021.
 image: assets/images/banner.png
-author: null
-zoom: https://zoom.us/j/99101881802?pwd=UFF1UkpSaUFyRDJHa0Q1NC9PNlhxZz09
-show_tile: false
-
 
 sponsors:
     - name: Vision-Box
