@@ -9,7 +9,6 @@ hour: "16:00"
 speaker: Senior Quality Advocate
 nav-menu: true
 webpage_url: https://www.diogonunes.com/
-
 ---
 
 
@@ -28,3 +27,4 @@ Deu dicas das principais skills que precisamos de ter para integramos esta área
 
 Se perdeste a talk e queres saber mais, temos a talk disponível para ti!
 
+<iframe src="https://drive.google.com/file/d/1vaHWtT37psBQ7PIQ0yON-leMzo8B8X01/preview" allowfullscreen width="800" height="500"></iframe>

@@ -18,4 +18,6 @@ A pandemia quase parou o transporte aéreo e mudou drasticamente como os aeropor
 
 A carreira do Jeff ampliou as suas percepções de mercado e expandiu a sua experiência internacional, conhecendo diferentes mercados por todo o mundo. Metade francês, metade britânico, nascido na Alemanha e casado com uma portuguesa, tem dois filhos e vive em Lisboa, Portugal … e entre alguns voos pelo mundo!
 
-Vem assistir a esta talk com o tema “The Future of Travelling” dia 11 às 11:30h na plataforma Zoom, e vem pensar um pouco sobre as viagens do amanhã!
+Se perdeste a talk, vê aqui!
+
+<iframe src="https://drive.google.com/file/d/1JfIrvublZ2YKpugC-JCJaaStJQjlvpNa/preview" allowfullscreen width="800" height="500"></iframe>

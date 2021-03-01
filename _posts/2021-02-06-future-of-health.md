@@ -25,3 +25,4 @@ Para os mais curiosos, partilhamos este [link](https://www.youtube.com/watch?v=l
 
 Nesta talk, Ana Rita Londral explorou o passado da saúde, onde nos encontramos, o conceito de saúde baseada em valor, e que direção estamos a tomar. Uma talk extremamente interessante sobre o futuro da humanidade, onde varias perguntas foram exploradas durante esta hora de talk: estamos a caminhar para imortalidade ? A inovação da saúde pode criar desiguildades? O paradigma está e tem de mudar? Se perdeste a talk, e estás interessado, não te preocupes, está gravada e disponível!
 
+<iframe src="https://drive.google.com/file/d/1e8TzsL2doPYQd_h1PU7bFfZ91gLoHrtE/preview" allowfullscreen width="800" height="500"></iframe>
